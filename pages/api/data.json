@@ -1,0 +1,28 @@
+{
+  "ProjectData": [
+    {
+      "title": "PYNQ Crowd Counting",
+      "subtitle": "Python, OpenCV, Xilinx PYNQ",
+      "description": "Hardware application designed to count people on CCTV footage in real-time",
+      "image": "./cctv.gif",
+      "liveLink": "https://github.com/conlonj25/Masters_Project_EE595",
+      "codeLink": "https://github.com/conlonj25/Masters_Project_EE595"
+    },
+    {
+      "title": "Bookshelf",
+      "subtitle": "Java, JDBC, MySQL",
+      "description": "Mock-up web application. Online book retailer",
+      "image": "./bookshelf.png",
+      "liveLink": "https://github.com/conlonj25/Bookshelf",
+      "codeLink": "https://github.com/conlonj25/Bookshelf"
+    },
+    {
+      "title": "Minecraft Clone",
+      "subtitle": "Javascript, JQuery, OSG.JS",
+      "description": "In-browser clone of the popular video game",
+      "image": "./minecraft.gif",
+      "liveLink": "https://conlonj25.github.io/",
+      "codeLink": "https://conlonj25.github.io/"
+    }
+  ]
+}
