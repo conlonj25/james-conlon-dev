@@ -1,28 +1,36 @@
 {
   "ProjectData": [
     {
-      "title": "PYNQ Crowd Counting",
-      "subtitle": "Python, OpenCV, Xilinx PYNQ",
-      "description": "Hardware application designed to count people on CCTV footage in real-time",
+      "title": "James-Conlon.dev",
+      "subtitle": "React JS, Next JS, Tailwind CSS, AWS",
+      "description": "This website is actually a full-blown React application running on Next JS and deployed on AWS",
       "image": "./cctv.gif",
-      "liveLink": "https://github.com/conlonj25/Masters_Project_EE595",
-      "codeLink": "https://github.com/conlonj25/Masters_Project_EE595"
+      "codeLink": "https://github.com/conlonj25/james-conlon-dev",
+      "liveLink": "https://www.james-conlon.dev/"
     },
     {
       "title": "Bookshelf",
       "subtitle": "Java, JDBC, MySQL",
       "description": "Mock-up web application. Online book retailer",
       "image": "./bookshelf.png",
-      "liveLink": "https://github.com/conlonj25/Bookshelf",
-      "codeLink": "https://github.com/conlonj25/Bookshelf"
+      "codeLink": "https://github.com/conlonj25/Bookshelf",
+      "liveLink": ""
     },
     {
       "title": "Minecraft Clone",
       "subtitle": "Javascript, JQuery, OSG.JS",
       "description": "In-browser clone of the popular video game",
       "image": "./minecraft.gif",
-      "liveLink": "https://conlonj25.github.io/",
-      "codeLink": "https://conlonj25.github.io/"
+      "codeLink": "https://github.com/conlonj25/Minecraft_Clone",
+      "liveLink": "https://conlonj25.github.io/"
+    },
+    {
+      "title": "PYNQ Crowd Counting",
+      "subtitle": "Python, OpenCV, Xilinx PYNQ",
+      "description": "Hardware application designed to count people on CCTV footage in real-time",
+      "image": "./cctv.gif",
+      "codeLink": "https://github.com/conlonj25/Masters_Project_EE595",
+      "liveLink": ""
     }
   ]
 }

@@ -1,12 +1,14 @@
 import React from 'react'
 import { SiAmazonaws, SiJava, SiJavascript, SiMysql, SiNginx, SiPython, SiReact, SiTailwindcss } from "react-icons/si";
+import { MdCode } from "react-icons/md";
 
 const Skills = () => {
   return (
     <section id='skills' className='bg-slate-500 flex flex-col justify-center'>
 
       <div className='text-center text-3xl font-medium text-white m-10'>
-        Skills MdCode
+        Skills
+        <MdCode />
       </div>
 
       <div className='w-4/5 flex flex-wrap justify-center m-10'>

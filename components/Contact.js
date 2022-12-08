@@ -1,11 +1,14 @@
 import React from 'react'
+import { MdContactMail } from 'react-icons/md';
 
 const Contact = () => {
   return (
     <section id='contact' className='bg-slate-500 '>
 
       <div className='text-center text-3xl font-medium text-white mb-5'>
-        Contact MdContactMail
+        <p>Contact <MdContactMail /></p>
+        
+        
       </div>
 
       <div className='flex justify-center'>

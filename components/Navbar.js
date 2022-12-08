@@ -9,11 +9,17 @@ const Navbar = () => {
         </a>
       </div>
       <div className='grow flex flex-row text-xl text-gray-300'>
-        <a href="#" className='px-5 py-5 hover:text-white'>
+        <a href="#about" className='px-5 py-5 hover:text-white'>
           About
         </a>
-        <a href="#" className='px-5 py-5 hover:text-white'>
+        <a href="#projects" className='px-5 py-5 hover:text-white'>
           Projects
+        </a>
+        <a href="#skills" className='px-5 py-5 hover:text-white'>
+          Skills
+        </a>
+        <a href="#contact" className='px-5 py-5 hover:text-white'>
+          Contact
         </a>
       </div>
     </div>
