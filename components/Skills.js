@@ -1,51 +1,49 @@
 import React from 'react'
+import { SiAmazonaws, SiJava, SiJavascript, SiMysql, SiNginx, SiPython, SiReact, SiTailwindcss } from "react-icons/si";
 
 const Skills = () => {
   return (
-    <div className='bg-green-300'>
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
+    <section id='skills' className='bg-slate-500 flex flex-col justify-center'>
 
-      <br />
+      <div className='text-center text-3xl font-medium text-white m-10'>
+        Skills MdCode
+      </div>
 
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
-
-      <br />
-
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
-
-      <br />
-
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
-
-      <br />
-
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
-    </div>
+      <div className='w-4/5 flex flex-wrap justify-center m-10'>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiPython className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>Python</div>
+        </div>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiJava className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>Java</div>
+        </div>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiJavascript className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>Javascript</div>
+        </div>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiReact className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>React</div>
+        </div>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiTailwindcss className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>Tailwind CSS</div>
+        </div>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiMysql className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>MySQL</div>
+        </div>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiNginx className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>Nginx</div>
+        </div>
+        <div className='bg-slate-600 w-5/12 flex flex-row p-2 mr-10 mb-5 rounded-xl'>
+          <SiAmazonaws className='text-5xl text-green-400' />
+          <div className='text-2xl inline-block align-middle ml-5 text-white'>AWS</div>
+        </div>
+      </div>
+    </section>
   )
 }
 

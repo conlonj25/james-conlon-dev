@@ -7,7 +7,7 @@ const ProjectWindow = ({projectData}) => {
       <div className='flex object-fill h-1/2'>
         <img
           className='object-fill'
-          src='./mugshot.jpeg'
+          src={projectData.image}
         />
       </div>
       <div className='flex flex-grow flex-col justify-around'>

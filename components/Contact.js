@@ -2,50 +2,42 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div className='bg-indigo-300'>
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
+    <section id='contact' className='bg-slate-500 '>
 
-      <br />
+      <div className='text-center text-3xl font-medium text-white mb-5'>
+        Contact MdContactMail
+      </div>
 
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
+      <div className='flex justify-center'>
+        <div className='w-4/5 flex flex-row'>
 
-      <br />
+          <div className='w-3/5 h-auto flex-grow'>
+            <iframe width="100%" height="100%" title="map" src="https://www.google.com/maps/embed/v1/place?q=Barcelona,+Spain&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"/>
+          </div>
 
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
+          <div className='flex-grow'>
 
-      <br />
+            <p className='text-3xl font-medium text-white m-10'>Get in touch</p>
 
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
+            <form action="/action_page.php" id="usrform" className='m-10'>
 
-      <br />
+              <label for="name" className='text-sm text-white'>Name</label><br />
+              <input type="text" name="name" className='w-full bg-slate-600 rounded border border-white focus:border-green-500 focus:ring-2 focus:ring-green-500 text-base outline-none text-white py-1 px-3 leading-8 transition-colors duration-300 ease-in-out'/><br />
 
-      <p>
-        Minim consectetur consectetur minim officia amet sunt pariatur ad. Velit aliquip irure dolore consequat. Ut tempor nulla esse deserunt consequat labore dolore fugiat reprehenderit proident proident. Labore sit ipsum exercitation laborum deserunt sit non cupidatat mollit aliquip et duis Lorem. Fugiat deserunt aute aliquip nulla id. Ex culpa Lorem Lorem quis culpa laborum dolor enim mollit do irure. Duis elit esse enim elit pariatur occaecat dolore ex adipisicing veniam velit pariatur fugiat.
-        Laborum officia et irure nostrud fugiat sunt non et aute enim. Reprehenderit commodo commodo sunt occaecat Lorem velit dolore. Magna cillum deserunt incididunt fugiat irure nulla incididunt labore ullamco aute. Incididunt tempor dolor proident tempor ad eiusmod esse proident commodo laboris exercitation.
-        Eu dolore officia eiusmod incididunt commodo duis veniam excepteur do dolor Lorem ad consectetur. Ex cupidatat esse enim adipisicing minim exercitation do Lorem consectetur commodo. Ea nulla fugiat et reprehenderit ex quis sint dolore proident veniam dolore. Adipisicing nostrud sint Lorem nulla tempor proident non. Id proident et cillum nulla mollit et irure mollit occaecat eiusmod anim. Consequat mollit et ad adipisicing pariatur ipsum Lorem id.
-        Consectetur culpa tempor tempor fugiat ad qui reprehenderit anim aliquip amet ullamco dolor aliquip laboris. Proident sunt ad proident commodo laborum reprehenderit minim amet sunt proident ex laborum labore velit. Ullamco officia do officia ex consectetur ea aliquip consectetur incididunt in id. Dolor culpa anim id aliquip occaecat ut fugiat culpa consectetur dolor. Fugiat aliqua cillum ad ea minim incididunt nostrud enim.
-      </p>
-    </div>
+              <label for="email" className='text-sm text-white'>Email</label><br />
+              <input type="text" name="email" className='w-full bg-slate-600 rounded border border-white focus:border-green-500 focus:ring-2 focus:ring-green-500 text-base outline-none text-white py-1 px-3 leading-8 transition-colors duration-300 ease-in-out'/><br />
+
+              <label for="message" className='text-sm text-white'>Message</label><br />
+              <textarea rows="4" cols="50" name="message" form="usrform" className='w-full bg-slate-600 rounded border border-white focus:border-green-500 focus:ring-2 focus:ring-green-500 text-base outline-none text-white py-1 px-3 leading-8 transition-colors duration-300 ease-in-out'/><br />
+
+              <input type="submit" value="Submit" className="text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg mt-2"/>
+            </form> 
+          </div>
+
+        </div>
+      </div>
+
+    </section>
   )
 }
 
