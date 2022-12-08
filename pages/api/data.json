@@ -4,14 +4,14 @@
       "title": "James-Conlon.dev",
       "subtitle": "React JS, Next JS, Tailwind CSS, AWS",
       "description": "This website is actually a full-blown React application running on Next JS and deployed on AWS",
-      "image": "./cctv.gif",
+      "image": "./james.gif",
       "codeLink": "https://github.com/conlonj25/james-conlon-dev",
       "liveLink": "https://www.james-conlon.dev/"
     },
     {
       "title": "Bookshelf",
       "subtitle": "Java, JDBC, MySQL",
-      "description": "Mock-up web application. Online book retailer",
+      "description": "Mock-up web application. Online book retailer.",
       "image": "./bookshelf.png",
       "codeLink": "https://github.com/conlonj25/Bookshelf",
       "liveLink": ""
@@ -31,6 +31,14 @@
       "image": "./cctv.gif",
       "codeLink": "https://github.com/conlonj25/Masters_Project_EE595",
       "liveLink": ""
+    },
+    {
+      "title": "Igntion SCADA Demo",
+      "subtitle": "Ignition SCADA, Linode",
+      "description": "Industrial SCADA application. This is a demo project for an engineering firm. Deployed on Linode.",
+      "image": "./ignition.gif",
+      "codeLink": "",
+      "liveLink": "http://178.79.174.57:8088/data/perspective/client/SL_Controls_Demo/"
     }
   ]
 }
