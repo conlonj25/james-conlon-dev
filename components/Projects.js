@@ -18,7 +18,7 @@ const Projects = () => {
         <div className='flex flex-wrap w-4/5 justify-center gap-5'>
           {
             ProjectData.map((item) => {
-              return (<ProjectWindow ProjectData={item} />)
+              return (<ProjectWindow key={item.title} ProjectData={item} />)
             })
           }
         </div>
