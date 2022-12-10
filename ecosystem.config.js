@@ -7,7 +7,7 @@ module.exports = {
     production : {
       key: 'AWS.pem',
       user : 'admin',
-      host : '54.217.131.73',
+      host : '52.18.204.77/',
       ref  : 'origin/main',
       repo : 'git@github.com:conlonj25/james-conlon-dev.git',
       path : '/home/admin',
